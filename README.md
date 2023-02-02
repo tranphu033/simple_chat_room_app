@@ -1,4 +1,5 @@
 # A real-time simple chat room app
+## Using Ceasar Cipher
 How to run:
 1. $ make
 - open a new terminal window to run server:
