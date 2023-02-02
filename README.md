@@ -1,5 +1,5 @@
 # A real-time simple chat room app
-#how to run:
+how to run:\n
 $ make
 <open a new terminal window to run server>
 $ ./server PortNumber
